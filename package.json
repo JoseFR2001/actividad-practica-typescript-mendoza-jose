@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "��#\u0000 \u0000a\u0000c\u0000t\u0000i\u0000v\u0000i\u0000d\u0000a\u0000d\u0000-\u0000p\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000a\u0000-\u0000t\u0000y\u0000p\u0000e\u0000s\u0000c\u0000r\u0000i\u0000p\u0000t\u0000-\u0000m\u0000e\u0000n\u0000d\u0000o\u0000z\u0000a\u0000-\u0000j\u0000o\u0000s\u0000e\u0000\r\u0000 \u0000",
   "main": "index.js",
-  "scripts":{
+  "scripts": {
     "ej1": "node ej1.ts",
     "ej2": "node ej2.ts",
     "ej3": "node ej3.ts",
